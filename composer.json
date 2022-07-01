@@ -1,0 +1,17 @@
+{
+    "name": "norman-huth/nova-default-fields",
+    "description": "Standard fields for each resource",
+    "support": {
+        "issues": "https://github.com/Muetze42/nova-default-fields/issues",
+        "source": "https://github.com/Muetze42/nova-default-fields",
+        "docs": "https://github.com/Muetze42/nova-default-fields#readme"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Norman Huth",
+            "homepage": "https://huth.it"
+        }
+    ],
+    "require": {}
+}
