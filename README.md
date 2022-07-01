@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
 # Laravel Nova Default Fields (Snipped - No Install)
 
 Standard fields for each resource.  
@@ -145,3 +147,6 @@ With options `$showCreatedAtField`, `showCreatedAtField()`, `$showUpdatedAtField
         return $fields;
     }
 ```
+---
+[![More Laravel Nova Packages](https://raw.githubusercontent.com/Muetze42/asset-repo/main/svg/more-laravel-nova-packages.svg)](https://huth.it/nova-packages)
+
